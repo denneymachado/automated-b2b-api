@@ -1,3 +1,5 @@
+# Sistema secundário de importação de produtos, usado para fornecedores que não possuem API, onde preenchemos um CSV após fazer web scraping do site do fornecedor.
+
 import os
 import csv
 import logging
